@@ -6,7 +6,7 @@ public class weak {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Enter the day order");
+		System.out.println("Enter the day order in number");
 		int day = sc.nextInt();
 		switch(day)
 		{
