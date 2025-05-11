@@ -29,7 +29,7 @@ public class weak {
 			System.out.println("6: Friday");
 			break;
 		case 7:
-			System.out.println("7: Saturday");
+			System.out.println("7:Saturday");
 			break;
 			
 		
